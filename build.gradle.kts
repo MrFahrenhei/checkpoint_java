@@ -22,6 +22,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
     implementation("org.springframework.boot:spring-boot-starter-data-jpa:4.2.0")
     implementation("org.springframework.boot:spring-boot-starter-web:4.2.0")
+    implementation("org.springframework.boot:spring-boot-starter-validation:4.2.0")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
