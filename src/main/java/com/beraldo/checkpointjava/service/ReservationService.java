@@ -3,7 +3,6 @@ package com.beraldo.checkpointjava.service;
 import com.beraldo.checkpointjava.persistence.entity.Reservation;
 import com.beraldo.checkpointjava.repository.ReservationRepository;
 import jakarta.transaction.Transactional;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
